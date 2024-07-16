@@ -87,6 +87,7 @@
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
+    margin-bottom: 20px;
    }
 
    .profile__avatar {
@@ -109,9 +110,7 @@
 
    .profile__add-button {
     margin: auto;
-    border-style: none;
-    display: flex;
+    background-size: cover;
     width: 100%;
-    
    }
 }

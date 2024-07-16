@@ -2,11 +2,14 @@
     background-color: black;
     color: rgba(84, 84, 84, 1);
     margin-top: 40px;
+    padding-bottom: 20px;
 }
 
 .footer__copyright {
     min-height: 18px;
     padding-top: 30px;
+    padding-bottom: 40px;
     font-size: 18px;
     font-weight: 400px;
+    margin-left: 19px;
 }
