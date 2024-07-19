@@ -20,7 +20,7 @@
 @media screen and(max-width: 1100px) {
 
     .page__section {
-        margin: 0 20px;
+        margin: 0 19px;
         max-width: calc(100% - 40px);
     }
   
@@ -29,5 +29,6 @@
 @media screen and (max-width: 480px) {
     .page {
         padding:0;
+        overflow: hidden;
     }
 }
