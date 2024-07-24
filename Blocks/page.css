@@ -32,3 +32,9 @@
         overflow: hidden;
     }
 }
+
+@media screen and (min-width: 480px) {
+    .page {
+        overflow: hidden;
+    }
+}
