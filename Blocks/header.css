@@ -26,3 +26,11 @@
         margin-bottom: 32px;
     }
 }
+
+@media screen and (max-width: 775px) {
+    .header {
+        padding-top: 45px;
+        margin-left: 19px;
+        margin-right: 19px;
+    }    
+}

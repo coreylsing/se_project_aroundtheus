@@ -6,7 +6,6 @@
     line-height: 20px;
     background-color: black;
     padding: 45px 200px;
-    min-height: 100vh;
     margin: auto;
 }
 
@@ -33,8 +32,9 @@
     }
 }
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 775px ) {
     .page {
         overflow: hidden;
+        padding: 0;
     }
 }
