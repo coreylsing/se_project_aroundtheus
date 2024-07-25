@@ -8,6 +8,9 @@ Figma is where the template for this project was taken from.
 Video link
 https://drive.google.com/file/d/1GOh_L2zlrBEx5KjXEr6F3KJeDTFC-Xls/view?usp=sharing
 
+Github
+https://github.com/coreylsing
+
 ### Overview  
 
 * Intro  
