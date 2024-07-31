@@ -113,7 +113,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
-    max-width: 282px;
+    max-width: 222px;
     margin: 0;
     font-size: 14px;
 
@@ -128,7 +128,6 @@
     white-space: nowrap;
     overflow: hidden;
     max-width: 282px;
-    padding-left: 43px;
     
    }
 
@@ -143,7 +142,7 @@
    .profile__edit-button {
     width: 18px;
     height: 18px;
-    margin: auto;
+    margin: auto 0;
    }
 }
 
