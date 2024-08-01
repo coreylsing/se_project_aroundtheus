@@ -9,5 +9,5 @@ Video link
 https://drive.google.com/file/d/1_f8TkH0sKU3c45TUdSmm3XdrGsj06lLZ/view?usp=sharing
 
 Github
-https://github.com/coreylsing/se_project_aroundtheus
+https://coreylsing.github.io/se_project_aroundtheus/
 
