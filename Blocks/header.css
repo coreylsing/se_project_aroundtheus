@@ -12,21 +12,6 @@
     
 }
 
-@media screen and (max-width: 480px) {
-    .header {
-        max-width: 320px;
-        padding-top: 28px;
-        margin-bottom: 42px;
-    }
-
-    .header__image {
-        width: 126px;
-        height: 24px;
-        padding-left: 27px;
-        margin-bottom: 32px;
-    }
-}
-
 @media screen and (max-width: 775px) {
     .header {
         padding-top: 45px;
@@ -34,5 +19,21 @@
     
     .header {
         padding-left: 20px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header {
+        max-width: 320px;
+        padding-top: 28px;
+        margin-bottom: 42px;
+        padding-left: 0;
+    }
+
+    .header__image {
+        width: 126px;
+        height: 24px;
+        padding-left: 27px;
+        margin-bottom: 32px;
     }
 }
