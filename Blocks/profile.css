@@ -42,7 +42,7 @@
     margin-top: 14px;
     border-width: 1px;
     border-style: solid;
-    cursor: url(../Images/cursor.svg), auto;
+    cursor: pointer
 }
 
 .profile__edit-button:hover {
@@ -57,7 +57,7 @@
     border-color: #fff;
     border-width: 2px;
     border-style: solid;
-    cursor: url(../Images/cursor.svg), auto;
+    cursor: pointer;
 }
 
 .profile__add-button:hover {
