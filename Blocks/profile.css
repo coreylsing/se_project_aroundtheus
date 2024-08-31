@@ -27,6 +27,7 @@
     font-weight: normal;
     grid-area: 'title';
     margin: auto;
+    margin-left: 0;
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;

@@ -69,11 +69,13 @@
     border-bottom: 1px solid;
     border-color: rgba(0, 0, 0, .5);
     padding-bottom: 12px;
-
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 17px;
 }
 
 .modal__button {
-    margin-top: 48px;
+    margin-top: 36px;
     background-color: #000;
     min-height: 50px;
     color: #fff;
@@ -91,22 +93,16 @@
     .modal__container {
         max-width: 282px;
         max-height: 322px;
-        
     }
 
     .modal__form-input {
-        max-width: 282px;
-        font-size: 14px;
-        line-height: 17px;
-        font-weight: 400px;
-        
+        max-width: 282px;   
     }
 
     .modal__button {
         max-width: 282px;
         font-size: 14px;
         line-height: 17px;
-        font-weight: 400; 
     }
 
     .modal__close {
