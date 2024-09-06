@@ -91,16 +91,21 @@
 
 @media screen and (max-width: 480px) {
     .modal__container {
-        max-width: 282px;
+        width: 282px;
         max-height: 322px;
+        padding: 22px;
+    }
+
+    .modal__form {
+        min-width: 238px;
     }
 
     .modal__form-input {
-        max-width: 282px;   
+        max-width: 238px;   
     }
 
     .modal__button {
-        max-width: 282px;
+        max-width: 238px;
         font-size: 14px;
         line-height: 17px;
     }
@@ -115,5 +120,6 @@
 
     .modal__heading {
         font-size: 18px;
+        max-width: 238px;
     }
 }

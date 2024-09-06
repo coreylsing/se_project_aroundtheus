@@ -41,7 +41,6 @@ const profileEditForm = profileEditModal.querySelector(".modal__form")
 const cardTemplate = document.querySelector("#card-template").content.firstElementChild;
 const cardListEl = document.querySelector('.cards__list');
 
-
 //--------------------------------------------------------------------------------------//
 //                                     // Functions                                     //
 //--------------------------------------------------------------------------------------//
